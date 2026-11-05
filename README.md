@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐ Featured Projects — Afshin Malek
+# ⭐ Featured Projects - Afshin Malek
 
 ### My top 10 projects, ranked
 
@@ -31,7 +31,7 @@ The six pinned repos on my profile are the top 5 below plus this hub. Everything
 
 ## Also worth a look
 
-- [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency) — the original bundle repo the seven Java projects above were extracted from, including Maze (union-find), Spelling Checker, and Natural Merge Sort
-- [afshinmalek](https://github.com/afshinmalek/afshinmalek) — my profile README
+- [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency) - the original bundle repo the seven Java projects above were extracted from, including Maze (union-find), Spelling Checker, and Natural Merge Sort
+- [afshinmalek](https://github.com/afshinmalek/afshinmalek) - my profile README
 
 📍 Berkeley, CA · [github.com/afshinmalek](https://github.com/afshinmalek)
